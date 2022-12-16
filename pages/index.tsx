@@ -19,7 +19,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>Learning to deploy Next.js with Vercel</title>
         </Head>
         <Container>
           <Intro />
